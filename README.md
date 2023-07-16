@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Sending instant notifications using React and Socket.io. Socket.io 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
